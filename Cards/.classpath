@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dell/Downloads/poi-3.7.jar/poi-3.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Dell/Downloads/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Downloads/jxl-2.6.9.jar/jxl-2.6.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
